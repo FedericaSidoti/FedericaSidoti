@@ -6,6 +6,8 @@
 ## 🌐 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/federica-sidoti-2b81b92b0) 
 
+[![Mail](https://img.shields.io/badge/Mail-%6F00FFFF.svg?logo=Mail&logoColor=white)](federicasidoti21@gmail.com) 
+
 Mail: federicasidoti21@gmail.com
 
 # 💻 Languages and Technologies:
