@@ -1,4 +1,4 @@
-##**Hi there!** U+1F596
+#**Hi there!** 🖖
 
 I am **Federica Sidoti**, a web developer and tech enthusiast. 
 
