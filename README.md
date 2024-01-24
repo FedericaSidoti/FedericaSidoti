@@ -7,6 +7,6 @@
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" /><!-- Node.js -->
 <img src="https://img.shields.io/badge/-Vite-A94DFE?logo=vite&logoColor=white&style=for-the-badge"><!-- Vite -->
 <img src="https://img.shields.io/badge/-Vue-42b883?logo=vuedotjs&logoColor=white&style=for-the-badge"><!-- Vue -->
-<img src="https://img.shields.io/badge/-Laravel-ff0000?logo=laravel&logoColor=white&style=for-the-badge"> <!-- Laravel -->
+<img src="https://img.shields.io/badge/-Laravel-ABCDEF?logo=laravel&logoColor=white&style=for-the-badge"> <!-- Laravel -->
 
 
