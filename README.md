@@ -2,7 +2,7 @@
 
 👤 I am **Federica Sidoti**, a junior web developer and tech enthusiast. 
 
-:seedling: I started coding for fun, fixing and transforming **GDR lands** (WoD never dies, PlayByChat never dies!). 
+:seedling: I started coding for fun, fixing and transforming **RPG lands** (WoD never dies, PlayByChat never dies!). 
 
 :computer: Then I rediscovered my passion and here comes **Boolean Careers** to help me out
 
