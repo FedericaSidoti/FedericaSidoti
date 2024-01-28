@@ -1,6 +1,17 @@
 # **Hi there!** 🖖
 
-👤 I am **Federica Sidoti**, a web developer and tech enthusiast. 
+👤 I am **Federica Sidoti**, a junior web developer and tech enthusiast. 
+
+:seedling: I started coding for fun, fixing and transforming **GDR lands** (WoD never dies, PlayByChat never dies!). 
+
+:computer: Then I re-discovered my passion and here comes **Boolean Careers** to help me out
+
+:wrench: I love learning new coding skills, languages & frameworks: **curiosity** DOES NOT kill catS, really (or so I hope). 
+
+:purple_heart: I love more doing so in a team: from the beginning I learned with great help from teachers, more experienced figures, even forums and friendly neighborhood enthusiasts on the Web. I feel like **working together** and **never gatekeeping knowledge** is one of the best part in the DEV world. 
+
+:game_dice: Yes, I'm **nerd and proud**, LARPs and GDRs are my favourites! (but chess is worth a mention). 
+
 
 
 ## 🌐 How to reach me:
