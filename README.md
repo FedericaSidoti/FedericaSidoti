@@ -4,11 +4,11 @@
 
 :seedling: I started coding for fun, fixing and transforming **GDR lands** (WoD never dies, PlayByChat never dies!). 
 
-:computer: Then I re-discovered my passion and here comes **Boolean Careers** to help me out
+:computer: Then I rediscovered my passion and here comes **Boolean Careers** to help me out
 
-:wrench: I love learning new coding skills, languages & frameworks: **curiosity** DOES NOT kill cats, really (or so do I hope). 
+:wrench: I love learning new coding skills, languages & frameworks: **curiosity** does NOT kill cats, really (or so I hope). 
 
-:purple_heart: I love more doing so in a team: from the beginning I learned with great help from teachers, more experienced figures, even forums and friendly neighbourhood enthusiasts on the Web. I feel like **working together** and **never gatekeeping knowledge** is one of the best parts in the DEV world. 
+:purple_heart:  I especially love coding in a team. From the beginning I learned with great help from teachers, more experienced figures, even forums and friendly neighbourhood enthusiasts on the Web. I feel like **working together** and **never gatekeeping knowledge** is one of the best parts in the DEV world. 
 
 :game_die: Yes, I'm **nerd and proud**, LARPs and RPGs are my favourites! (but chess is worth a mention). 
 
