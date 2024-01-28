@@ -10,7 +10,7 @@
 
 :purple_heart: I love more doing so in a team: from the beginning I learned with great help from teachers, more experienced figures, even forums and friendly neighbourhood enthusiasts on the Web. I feel like **working together** and **never gatekeeping knowledge** is one of the best part in the DEV world. 
 
-:game_dice: Yes, I'm **nerd and proud**, LARPs and GDRs are my favourites! (but chess is worth a mention). 
+:game_die: Yes, I'm **nerd and proud**, LARPs and GDRs are my favourites! (but chess is worth a mention). 
 
 
 
