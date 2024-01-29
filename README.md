@@ -1,16 +1,16 @@
 # **Hi there!** 🖖
 
-👤 I am **Federica Sidoti**, a junior web developer and tech enthusiast. 
+👤 I am **Federica Sidoti**, a junior full stack web developer and tech enthusiast. 
 
-:seedling: I started coding for fun, fixing and transforming **RPG lands** (WoD never dies, PlayByChat never dies!). 
+:seedling: I started coding for fun, fixing and making adjustments to **RPG websites** (WoD never dies, PlayByChat never dies!). 
 
 :computer: Then I rediscovered my passion and here comes **Boolean Careers** to help me out
 
 :wrench: I love learning new coding skills, languages & frameworks: **curiosity** does NOT kill cats, really (or so I hope). 
 
-:purple_heart:  I especially love coding in a team. From the beginning I learned with great help from teachers, more experienced figures, even forums and friendly neighbourhood enthusiasts on the Web. I feel like **working together** and **never gatekeeping knowledge** is one of the best parts in the DEV world. 
+:purple_heart:  I especially love coding in a team. Since the beginning I learned with great help from teachers, more experienced developers, even forums and friendly neighbourhood enthusiasts on the Web. I feel that **working together** and **never gatekeeping knowledge** is one of the best parts in the DEV world. 
 
-:game_die: Yes, I'm **nerd and proud**, LARPs and RPGs are my favourites! (but chess is worth a mention). 
+:game_die: Yes, I'm **nerd and a proud one**. LARPs and RPGs are my favourite pastimes! (but chess is also worth a mention). 
 
 
 
